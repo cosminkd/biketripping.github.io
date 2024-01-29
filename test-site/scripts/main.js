@@ -9,7 +9,7 @@ myImage.onclick = () => {
     myHeader.style.fontSize = "60px"
   } else {
     myImage.setAttribute("src", "images/me.jpeg");
-    myHeader.textContent = "And the adventure of Cosmin&Martin";
+    myHeader.textContent = "The adventure of Martin&Cosmin";
     myHeader.style.fontSize = "30px"
   }
 };
